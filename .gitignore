@@ -1,0 +1,5 @@
+# Start of AOC gitignore
+bin/
+obj/
+# End of AOC gitignore
+
